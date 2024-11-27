@@ -1,0 +1,14 @@
+/Users/uce_g/AulaLinear/CodIn/obj/Debug/net8.0/CodIn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uce_g/AulaLinear/CodIn/obj/Debug/net8.0/CodIn.AssemblyInfoInputs.cache
+/Users/uce_g/AulaLinear/CodIn/obj/Debug/net8.0/CodIn.AssemblyInfo.cs
+/Users/uce_g/AulaLinear/CodIn/obj/Debug/net8.0/CodIn.csproj.CoreCompileInputs.cache
+/Users/uce_g/AulaLinear/CodIn/bin/Debug/net8.0/CodIn
+/Users/uce_g/AulaLinear/CodIn/bin/Debug/net8.0/CodIn.deps.json
+/Users/uce_g/AulaLinear/CodIn/bin/Debug/net8.0/CodIn.runtimeconfig.json
+/Users/uce_g/AulaLinear/CodIn/bin/Debug/net8.0/CodIn.dll
+/Users/uce_g/AulaLinear/CodIn/bin/Debug/net8.0/CodIn.pdb
+/Users/uce_g/AulaLinear/CodIn/obj/Debug/net8.0/CodIn.dll
+/Users/uce_g/AulaLinear/CodIn/obj/Debug/net8.0/refint/CodIn.dll
+/Users/uce_g/AulaLinear/CodIn/obj/Debug/net8.0/CodIn.pdb
+/Users/uce_g/AulaLinear/CodIn/obj/Debug/net8.0/CodIn.genruntimeconfig.cache
+/Users/uce_g/AulaLinear/CodIn/obj/Debug/net8.0/ref/CodIn.dll
